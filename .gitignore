@@ -1,0 +1,32 @@
+# Unreal Engine standard gitignore
+
+# Compiled source files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Build
+Build/
+
+# Config files generated at runtime
+Config/DefaultEditor.ini
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# User-specific
+*.user
+*.userprefs
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
